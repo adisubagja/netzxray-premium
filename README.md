@@ -22,15 +22,16 @@
 - Debian 10
 - Dibawahnya support (kurang optimal)
 # Langganan
-* Paket Lite
+# Paket Lite
 - 1 IP = Rp20.000/Bulan
 - 3 IP = Rp50.000/Bulan
-* Paket Support by Admin
+# Paket Support by Admin
 - 1 IP = Rp25.000/Bulan
 - 3 IP = Rp55.000/Bulan
-* Paket 3 Bulan + Support By Admin
+# Paket 3 Bulan + Support By Admin
 - 1 IP - Rp50.000/3Bulan
 - 3 IP = Rp120.000/3Bulan
+# Custom Paket
 Paket Custom ?
 Paket Routing ?
 Hubungi Admin
