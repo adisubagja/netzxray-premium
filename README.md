@@ -3,6 +3,9 @@
 - SSH Stunnel (443,445)
 - SSH WS (80)
 - SSH WS SSL (443)
+- OPENVPN TCP (1194)
+- OPENVPN UDP (2200)
+- OPENVPN SSL (442)
 - TROJAN (TCP/WS/GRPC)
 - VMESS (WS/GRPC)
 - VLESS (WS/GRPC)
@@ -15,7 +18,7 @@
 - Restore
 # Spesifikasi Minimal
 - RAM 1GB
-- Disk 60GB
+- Disk 40GB
 - CPU 1 Core
 # OS Supported
 - Ubuntu 20
