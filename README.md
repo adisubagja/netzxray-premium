@@ -1,6 +1,8 @@
 # Premium Script Monthly
 - SSH Dropbear (143)
 - SSH Stunnel (443,445)
+- SSH HTTPS (443) TLS ENABLED
+- SSH HTTP (80) TLS DISABLED
 - SSH WS (80)
 - SSH WS SSL (443)
 - OPENVPN TCP (1194)
