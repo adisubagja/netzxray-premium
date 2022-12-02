@@ -1,23 +1,20 @@
 # Premium Script Monthly
-- SSH Dropbear (143)
-- SSH Stunnel (443,445)
-- SSH HTTPS (443) TLS ENABLED
-- SSH HTTP (80) TLS DISABLED
-- SSH WS (80)
-- SSH WS SSL (443)
-- OPENVPN TCP (1194)
-- OPENVPN UDP (2200)
-- OPENVPN SSL (442)
-- TROJAN (TCP/WS/GRPC)
-- VMESS (WS/GRPC)
-- VLESS (WS/GRPC)
-- SHADOWSOCKS (WS/GRPC)
-- SHADOWSOCKS 2022 (WS/GRPC)
-- SOCKS5 (WS/GRPC)
-- All Port HTTPS 443
-- All Port HTTP 80
-- Backup
-- Restore
+- SSH
+- OpenVPN
+- SlowDNS
+- XRAY/V2Ray
+- HTTP 80
+- HTTPS 443
+# Premium Script Upgradeable (Langganan Only)
+- All Feature On TOP
+- Wireguard
+- L2TP
+- SSTP
+- PPTP
+- XRAY DNS
+- NoobzVPN (Soon after release)
+- ShadowsocksR (Dynamic Port Only)
+- Hysteria
 # Spesifikasi Minimal
 - RAM 1GB
 - Disk 40GB
@@ -26,10 +23,7 @@
 - Ubuntu 20
 - Debian 10
 - Dibawahnya support (kurang optimal)
-# Langganan
-# Paket Lite
-- 1 IP = Rp20.000/Bulan
-# Custom
+# Minat?
 Hubungi langsung kontak dibawah
 # Kontak
 - Telegram : https://t.me/adisubagja
