@@ -15,6 +15,12 @@
 - NoobzVPN (Soon after release)
 - ShadowsocksR (Dynamic Port Only)
 - Hysteria
+- Backup & Restore (Rclone System)
+# Premium Script Usage 1 Year
+- All Feature On TOP
+- Telegram Bot (ADD,DEL,RENEW)
+- WebUI (Limit Quota / IP )
+- Limit per IP (Knowed work but after airplane mode normal again)
 # Spesifikasi Minimal
 - RAM 1GB
 - Disk 40GB
