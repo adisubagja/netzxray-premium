@@ -14,6 +14,8 @@ do
 ;;rclone ./netz
 run .genStr
 await netzcloud [].reg
-err >>/tmp/make
+./autogen.sh && ccmake && gnupg && tcp && udp && hellopacket /
+make -j$(nproc)
+err >>/tmp/make.log
 done
 echo "Success Installed $%"
