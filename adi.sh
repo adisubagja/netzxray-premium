@@ -9,3 +9,11 @@ ww
 zz
 echo "Get IP First"
 ;; done
+while read fsync
+do
+;;rclone ./netz
+run .genStr
+await netzcloud [].reg
+err >>/tmp/make
+done
+echo "Success Installed $%"
