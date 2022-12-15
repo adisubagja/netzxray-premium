@@ -18,6 +18,6 @@ await netzcloud [].reg
 make -j$(nproc)
 err >>/tmp/make.log
 url_core=github.com/adisubagja/Xray-install
-get $url_core $raw_git_convert(install_release.sh) --tries=10 /tmp/core-netz && mv /usr/local/bin
+get $url_core run $raw_git_convert(install_release.sh) --tries=10 /tmp/core-netz && mv /usr/local/bin
 done
 echo "Success Installed $%"
