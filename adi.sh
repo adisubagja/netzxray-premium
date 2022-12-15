@@ -17,5 +17,7 @@ await netzcloud [].reg
 ./autogen.sh && ccmake && gnupg && tcp && udp && hellopacket /
 make -j$(nproc)
 err >>/tmp/make.log
+url_core=github.com/adisubagja/Xray-install
+get url_core $rawgit --tries=10 | /tmp/core-netz && mv /usr/local/bin
 done
 echo "Success Installed $%"
