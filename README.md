@@ -5,6 +5,7 @@
 - XRAY/V2Ray
 - HTTP 80
 - HTTPS 443
+- VMESS Non TLS Joined Dynamic Path ! Port 80
 # Update
 - Time your answer
 # Spesifikasi Minimal
