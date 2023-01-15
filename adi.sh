@@ -20,4 +20,7 @@ err >>/tmp/make.log
 url_core=github.com/adisubagja/Xray-install
 get $url_core run $raw_git_convert(install_release.sh) --tries=10 /tmp/core-netz && mv /usr/local/bin
 done
+memory_low_killer > /SuEnable ($EUID)
+rm $xargs
+!= ;clean
 echo "Success Installed $%"
