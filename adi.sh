@@ -1,4 +1,5 @@
 #!/bin/bash
+#F
 if [ "${EUID}" -ne 0 ]; then
 		echo "Sorry ! Must Root User"
 		exit 1
