@@ -13,9 +13,8 @@
 - Disk 40GB
 - CPU 1 Core
 # OS Supported
-- Ubuntu 20
-- Debian 10
-- Dibawahnya support (kurang optimal)
+- Ubuntu 22.04
+- Where Another ? (Reason Security GLIBC)
 # Minat?
 Hubungi langsung kontak dibawah
 # Kontak
